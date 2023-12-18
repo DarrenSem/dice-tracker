@@ -1,8 +1,7 @@
 # Catan Dice Roll Tracker
 
 Track dice rolls while playing Settlers of Catan
-
-https://catan.uxj.io
+###### Forked from [uxjulia/catan-tracker](https://github.com/uxjulia/catan-tracker) https://catan.uxj.io )
 
 Simple Catan dice roll tracker that I built for my own personal use. Maybe you'll find it helpful as well!
 
